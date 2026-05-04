@@ -1,5 +1,8 @@
 Gunpowder Ore — мод для Minecraft 1.21.1 NeoForge, добавляет пороховую руду.
 
+<img width="1920" height="1080" alt="2026-05-04_10 50 35" src="https://github.com/user-attachments/assets/19a8b5ed-4059-400e-9091-70106aef95d8" />
+-
+
 - Спавнится в Overworld, Y от 0 до 256, во всех биомах
 - 8 жил на чанк, размер до 17 блоков
 - Нужна каменная кирка
